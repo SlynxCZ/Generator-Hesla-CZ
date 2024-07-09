@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/michalprikryl/Programování/Tábor/C++/Generátor Hesel",
+      "program": "/Users/michalprikryl/Programování/Tábor/C++/Generátor Hesel/build/Debug/outDebug"
+    }
+  ]
+}
